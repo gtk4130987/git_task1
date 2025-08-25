@@ -1,4 +1,9 @@
 "gtk is good"
+<<<<<<< HEAD
 
-jhvghvvhn
-ljknkjbhjv
+=======
+"welcome to genworx"
+>>>>>>> 033b246311ce51015e684e3865ba97135cf0bcd5
+
+
+git clone https://github.com/gtk4130987/git_task1.gitggukhlhi
